@@ -9,6 +9,7 @@ To write a program to predict the price of cars using a multiple linear regressi
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 1. Load the dataset and remove unnecessary columns like car_ID and CarName.
 
 2.Convert categorical data into numerical form using one-hot encoding.
